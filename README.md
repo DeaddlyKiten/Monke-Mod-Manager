@@ -12,10 +12,11 @@ Monke Mod Manager is a simple and lightweight mod installer for **Gorilla Tag**.
 
 ## 🚀 How to Use
 
-1. **Download** the latest release from [Releases](https://github.com/ferstgoblin4355/Monke-Mod-Manager/releases/download/monke/MonkeModes.zip).
+1. **Download** the latest release from [Releases](https://github.com/ferstgoblin4355/Monke-Mod-Manager/releases).
 2. Run `MonkeModManager.exe`.
 3. Select the mods you want.
 4. Click `Install / Update`.
+
 
 That's it — mods will be installed into your Gorilla Tag directory!
 
