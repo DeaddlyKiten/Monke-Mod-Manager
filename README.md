@@ -1,5 +1,5 @@
 # 🐵 Monke Mod Manager
-![Monke Mod Manager](https://camo.githubusercontent.com/fb29c1b9ddfbd4d66870e779f806d8f80953e32d053ef2e4d569e4a5d27a80bc/68747470733a2f2f692e696d6775722e636f6d2f366d454942786d2e706e67)
+
 
 Monke Mod Manager is a simple and lightweight mod installer for **Gorilla Tag**.
 
